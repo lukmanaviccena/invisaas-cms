@@ -9,19 +9,19 @@
     "format": "biome lint --fix && biome check --write"
   },
   "dependencies": {
-    "next": "^16.1.5",
+    "next": "^16.1.6",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.3.13",
-    "@pelatform/biome-config": "^0.1.5",
-    "@tailwindcss/postcss": "^4.1.18",
-    "@types/node": "25.0.10",
-    "@types/react": "^19.2.10",
+    "@biomejs/biome": "^2.4.6",
+    "@pelatform/biome-config": "^0.1.6",
+    "@tailwindcss/postcss": "^4.2.1",
+    "@types/node": "25.4.0",
+    "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.18",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.1",
     "typescript": "^5.9.3"
   },
   "overrides": {
